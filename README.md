@@ -4,7 +4,7 @@
 
 For Udacity reviewers
 ---
-Please check my project summary in [writeup.md](https://github.com/WangYuanMike/CarND-Traffic-Sign-Classifier-Project/blob/master/writeup.md).
+Please check my project summary in [writeup.md](https://github.com/WangYuanMike/CarND-Behavioral-Cloning-P3/blob/master/writeup.md).
 
 Overview
 ---
