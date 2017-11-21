@@ -2,6 +2,10 @@
 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
+For Udacity reviewers
+---
+Please check my project summary in [writeup.md](https://github.com/WangYuanMike/CarND-Traffic-Sign-Classifier-Project/blob/master/writeup.md).
+
 Overview
 ---
 This repository contains starting files for the Behavioral Cloning Project.
