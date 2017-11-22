@@ -6,6 +6,13 @@ For Udacity reviewers
 ---
 Please check my project summary in [writeup.md](https://github.com/WangYuanMike/CarND-Behavioral-Cloning-P3/blob/master/writeup.md).
 
+Tips for myself
+---
+Use this command to build ssh tunnel from laptop to google cloud server, so that the model will be run on the GPU server, while the video simulator running on the laptop would send image to GPU server and get angle prediction back from it. Very useful in testing transfer learning model.
+```sh
+gcloud compute ssh carnd -- -L 4567:localhost:4567
+```
+
 Overview
 ---
 This repository contains starting files for the Behavioral Cloning Project.
